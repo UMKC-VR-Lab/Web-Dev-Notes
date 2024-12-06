@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ae971bb84b7ed30f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9baee68721ad2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome to Web Dev Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome to Web Dev Notes"
-            }
-          }
-        ]
-      },
-      {
         "id": "ab7bc6bfab90e9a9",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "159718718a61294a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Web Dev Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Dev Resources"
             }
           }
         ]
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Web Dev Notes.md",
+                "file": "Web Dev Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome to Web Dev Notes"
+              "title": "Backlinks for Web Dev Resources"
             }
           },
           {
@@ -128,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Web Dev Notes.md",
+                "file": "Web Dev Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome to Web Dev Notes"
+              "title": "Outgoing links from Web Dev Resources"
             }
           },
           {
@@ -155,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Web Dev Notes.md"
+                "file": "Web Dev Resources.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome to Web Dev Notes"
+              "title": "Outline of Web Dev Resources"
             }
           }
         ]
@@ -178,12 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9baee68721ad2dd",
+  "active": "159718718a61294a",
   "lastOpenFiles": [
+    "CSS.md",
+    "Web Dev Resources.md",
+    "HTML.md",
+    "amazon.com.md",
+    "Obsidian/Markdown Basics/Markdown Basics.md",
+    "Welcome to Web Dev Notes.md",
     "Obsidian/Tips and Tricks/Tips and Tricks.md",
     "Obsidian/Tips and Tricks",
     "Obsidian/Markdown Basics/Text Formatting.md",
-    "Obsidian/Markdown Basics/Markdown Basics.md",
     "Obsidian/Markdown Basics/Lists.md",
     "Obsidian/Markdown Basics/Links.md",
     "Obsidian/Markdown Basics/Images.md",
@@ -201,9 +190,6 @@
     "Obsidian/Advanced Features/Advanced Formatting Syntax.md",
     "Obsidian/Advanced Features/Advanced Features.md",
     "Obsidian/Advanced Features",
-    "Obsidian",
-    "amazon.com.md",
-    "Web Dev.md",
-    "Welcome to Web Dev Notes.md"
+    "Obsidian"
   ]
 }

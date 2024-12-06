@@ -317,7 +317,7 @@ Note
 
 ## Footnotes
 
-You can add footnotes[[1]](https://publish.obsidian.md/#fn-1-1e366edd28878576) to your notes using the following syntax:
+You can add footnotes[1](https://publish.obsidian.md/#fn-1-1e366edd28878576) to your notes using the following syntax:
 
 ```md
 This is a simple footnote[^1].
